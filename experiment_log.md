@@ -7,7 +7,7 @@ Plik do śledzenia parametrów użytych do wygenerowania każdego pliku CSV wyni
 ## Struktura katalogów
 
 ```
-results_A/   — Metoda A: osobny opis każdego obrazka → kategoryzacja różnic
+results_A/   — Metoda A: osobny opis każdego obrazka → kategoryzacja różnic (bezpośrednio z opisów lub po stworzeniu opisu różnic)
 results_B/   — Metoda B: bezpośrednie porównanie pary obrazków przez Qwena
 results_C/   — Metoda C: usunięcie identycznych zdjęć → metoda A
 ```
@@ -291,7 +291,84 @@ JSON:
 **Uwagi:**
 Wywołane tylko na części zdjęć, ale już tutaj daje słabe wyniki. Nie opisuje dobrze różnic ani nie przypisuje dobrze kategorii.
 
+---
 
+## results_A_all_blindspots/
+
+> Podejście identyczne jak `results_A/` ale bez progu podobieństwa — używa **wszystkich** par z CSV, nie tylko silnych blind spotów.
+
+### `descriptions_*.csv`
+
+| Parametr | Wartość |
+|---|---|
+| Notebook | `method_A_blindspot.ipynb` |
+| Dataset | |
+| SELECTION | |
+| QWEN_ID | `Qwen/Qwen2-VL-2B-Instruct` |
+| MAX_NEW_TOKENS_DESC | 500 |
+| min_pixels / max_pixels | 256×28×28 / 512×28×28 |
+
+**DESCRIBE_PROMPT:** (identyczny jak w `results_A/descriptions_caltech_250_tokens.csv`)
+
+**Uwagi:**
+Opis po przejrzeniu przykładowych par dobry i dopasowany.
+
+---
+
+### `diffs_*.csv`
+
+| Parametr | Wartość |
+|---|---|
+| Notebook | `method_A_blindspot.ipynb` |
+| Wejście | `descriptions_*.csv` |
+| QWEN_ID | `Qwen/Qwen2-VL-2B-Instruct` |
+| MAX_NEW_TOKENS_DIFF | 80 |
+
+**DIFF_PROMPT:**
+```
+Based on these two descriptions, identify the SINGLE most prominent difference
+between the two images. Focus on what stands out most — for example: the main
+subjects are different objects or species, the backgrounds show different
+environments, or the subject has a different appearance or pose.
+Describe this main difference in one or two sentences. Be specific and factual.
+```
+
+**Uwagi:**
+Opis różnic już nie zawsze się pokrywał. Czasami pisał, że różnicą jest obecność osoby na drugim zdjęciu, a opis obrazka nie wspominał tego.
+---
+
+### `categorized_diff_*.csv`
+
+| Parametr | Wartość |
+|---|---|
+| Notebook | `method_A_blindspot.ipynb` |
+| Wejście | `diffs_*.csv` |
+| QWEN_ID | `Qwen/Qwen2-VL-2B-Instruct` |
+| MAX_NEW_TOKENS_DIFFCAT | 50 |
+| Kategorie | `SUBJECT_TYPE`, `SUBJECT_APPEARANCE`, `SUBJECT_POSE`, `BACKGROUND_OBJECTS`, `BACKGROUND_SETTING`, `COLORS_LIGHTING`, `NO_DIFFERENCE` |
+
+**DIFF_CAT_PROMPT:**
+```
+The following text describes the main difference between two images:
+
+"{diff_text}"
+
+Assign exactly ONE category that best matches this difference:
+  - Main subjects are different species, breed, or type? → SUBJECT_TYPE
+  - Same subject type but different color, markings, or size? → SUBJECT_APPEARANCE
+  - Same subject, different pose, angle, or orientation? → SUBJECT_POSE
+  - Same subject, background has different objects present? → BACKGROUND_OBJECTS
+  - Same subject, background is a different place or environment? → BACKGROUND_SETTING
+  - Same subject and setting, but different brightness or color tone? → COLORS_LIGHTING
+  - No meaningful difference? → NO_DIFFERENCE
+
+Reply in this format:
+Label: <ONE label>
+Reason: <one sentence>
+```
+
+**Uwagi:**
+Widać zróżnicowanie w kategoriach. Nie przypisywał wszytskiego do jednej, jednak dalej wątpliwym pozostaje czy są to odpowiednie kategorie.
 ---
 
 ## Prompty — pełna lista wersji
