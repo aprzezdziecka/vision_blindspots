@@ -1,0 +1,545 @@
+identical_by_qwen,qwen_cap_1,qwen_cap_2,diff_bullets,Orientation_And_Direction,Presence_Of_Features,State_And_Condition,Quantity_And_Count,Positional_Context,Color_And_Appearance,Structural_Characteristics,Text,Viewpoint_Perspective,No_Difference,dataset_name,base_name,id_1,id_2,base_score,ref_1_score,ref_2_score
+True,,,Qwen: images are essentially identical.,0,0,0,0,0,0,0,0,0,1,Caltech101,CLIP,20,465,0.96122706,0.4258185,0.990587
+False,"The image depicts a jaguar, a large feline native to the Americas. The jaguar is captured in a dynamic pose, walking on a rocky terrain. The jaguar's coat is a striking pattern of dark brown and black spots, which are characteristic of its species. Its long, slender tail is visible, and it appears to be in mid-stride, with its front paws on the ground and its hind legs raised slightly. The jaguar's eyes are focused forward, and its ears are perked up, indicating alertness. The background consists of rocky outcrops and a natural, somewhat barren landscape, suggesting a wild, natural habitat. The jaguar's posture and the rugged terrain suggest it is in its natural environment, possibly searching for prey or simply moving through its habitat.","The image depicts a jaguar, a large feline native to the Americas. The jaguar is standing on rocky terrain, with its body oriented slightly to the left of the frame. The jaguar's distinctive coat pattern is visible, featuring a pattern of dark spots on a lighter background. The fur appears to be well-groomed and shiny, indicating good health. The jaguar's tail is long and bushy, with a distinctive black tip. Its eyes are partially closed, and it appears to be looking forward with a calm and composed expression. The background consists of rocky outcrops and a few patches of greenery, suggesting a natural habitat such as a rocky hillside or a rocky plain. The overall scene conveys a sense of tranquility and natural beauty.","- The jaguar in Image 1 is walking on a rocky terrain, while the jaguar in Image 2 is standing on rocky terrain.
+- The jaguar in Image 1 has a pattern of dark spots on a lighter background, while the jaguar in Image 2 has a pattern of dark spots on a lighter background.
+- The jaguar in Image 1 has a long, bushy tail with a black tip, while the jaguar in Image 2 has a long, bushy tail with a black tip.
+- The jaguar in Image 1 has its eyes focused forward, while the jaguar in Image 2 has its eyes partially closed.
+- The jaguar in Image 1 is in a dynamic pose, while the jaguar in Image 2 is standing still.",0,0,0,0,0,1,0,0,0,0,Caltech101,CLIP,55,7297,0.9873922,0.58670044,0.9905975
+False,"The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two intersecting circles, one black and one white, forming a complete circle. The black circle is known as the ""Yin"" and the white circle is known as the ""Yang."" The Yin and Yang are considered the two fundamental forces in the universe, representing the yin-yang principle, which is the idea that everything is composed of both yin and yang forces.
+
+In the context of the Yin-Yang symbol, the black circle represents the yin, which is the feminine, passive, and receptive force. The white circle represents the yang, which is the masculine, active, and energetic force. The symbol is often used to represent the balance and harmony of opposing forces, symbolizing the idea that everything is composed of both yin and yang forces.
+
+The Yin-Yang symbol is often","The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two intersecting circles, one black and one white, forming a Y shape. The black circle represents the negative or dark side, while the white circle represents the positive or light side. The two circles are connected by a line, symbolizing the interdependence and transformation between the two opposing forces.
+
+The Yin-Yang symbol is often used to represent the balance between yin (dark, feminine, and passive) and yang (light, masculine, and active) energies. It is a symbol of the universe, representing the dual nature of all things. The symbol is often used in various forms of art, philosophy, and religion, including Taoism, Buddhism, and Chinese culture.
+
+In this image, the Yin-Yang symbol is presented in a simple, clean design with a gray background, which helps to","- Yin-Yang symbol
+- Black circle
+- White circle
+- Intersecting circles
+- Complete circle
+- Yin
+- Yang
+- Negative
+- Positive
+- Interdependence
+- Transformation
+- Dual nature
+- Taoism
+- Buddhism
+- Chinese culture
+- Simple, clean design",0,0,0,0,0,1,0,0,0,0,Caltech101,CLIP,84,8550,0.9651669,0.36660862,0.7480843
+False,"The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two intersecting circles, one black and one white, forming a complete circle. The black circle is known as the ""Yin"" and the white circle is known as the ""Yang."" The Yin and Yang are considered the two fundamental forces in the universe, representing the yin-yang principle, which is the idea that everything is composed of both yin and yang forces.
+
+In the context of the Yin-Yang symbol, the black circle represents the yin, which is the feminine, passive, and receptive force. The white circle represents the yang, which is the masculine, active, and energetic force. The symbol is often used to represent the balance and harmony of opposing forces, symbolizing the idea that everything is composed of both yin and yang forces.
+
+The Yin-Yang symbol is often","The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two interlocking circles, one black and one white, with a small dot in the center of the white circle. The black circle represents the negative or masculine aspect, while the white circle represents the positive or feminine aspect. The small dot in the center represents the unity or the intersection of the two forces.
+
+The Yin-Yang symbol is a symbol of balance and harmony, representing the idea that everything in the universe is composed of both positive and negative forces. It is often used in various forms of art, philosophy, and Eastern religions to symbolize the interconnectedness of all things and the importance of finding balance and harmony in life.
+
+In this image, the Yin-Yang symbol is presented in a simple and clear manner, with the black and white circles and the small dot in the center. The simplicity of","- Yin-Yang symbol
+- Yin
+- Yang
+- Yin and Yang
+- Yin and Yang principle
+- Yin and Yang forces
+- Yin and Yang balance",0,0,0,0,0,0,0,0,0,1,Caltech101,CLIP,84,4583,0.9633423,0.4173151,0.78833413
+False,"The image depicts a scorpion, specifically a type known as the Mojave Desert scorpion (Moloch horridus). This scorpion is characterized by its elongated, segmented body, which is a distinctive feature that helps it to camouflage itself in its natural habitat. The scorpion's body is primarily yellowish-brown, with darker stripes running along its back and a lighter stripe along its sides. The scorpion's legs are slender and elongated, with the front legs being longer than the hind legs. The scorpion's tail is relatively short and has a yellowish-brown coloration, with a few dark spots. The scorpion is positioned on a sandy or rocky surface, with some dry pine needles visible in the background. The scorpion appears to be in a resting or stationary position, with its body oriented towards the camera.","The image depicts a scorpion, specifically a type known as the Mojave Desert scorpion (Moloch horridus). This scorpion is characterized by its elongated, segmented body, which is a distinctive feature that helps it to move quickly and efficiently. The scorpion's body is segmented into several distinct segments, each with a pair of legs attached to it. The legs are adapted for climbing and are covered with spines that provide a means of defense.
+
+The scorpion's body is covered with a protective exoskeleton, which is a hard, waterproof layer that helps to protect the scorpion from predators and harsh environmental conditions. The scorpion's coloration varies depending on the species, but in this image, the scorpion appears to be a light brown or beige color, which is typical for many desert scorpions.
+
+The scorpion is positioned on a sandy or gravelly surface, which is common in desert environments. The background shows some dry, brownish-yellow vegetation,","- scorpion
+- elongated, segmented body
+- yellowish-brown coloration
+- slender, elongated legs
+- short tail
+- sandy or rocky surface
+- dry pine needles
+- resting or stationary position",0,1,0,0,0,1,0,0,0,0,Caltech101,CLIP,116,5039,0.95730233,0.13983625,0.9829484
+False,"The image depicts a large commercial airplane, specifically a Boeing 747, operated by Northwest Airlines. The aircraft is captured in flight against a backdrop of a cloudy sky. The Northwest Airlines logo is prominently displayed on the fuselage, featuring the company's name and the logo in white text against a red background. The aircraft's tail fin is painted in a dark color, possibly black or dark blue, with the Northwest Airlines logo in white. The aircraft's engines are visible under the wings, and the overall design suggests it is a modern, commercial jetliner. The aircraft's registration number is not visible in the image.","The image depicts a commercial airplane in flight against a clear blue sky. The aircraft is a twin-engine jet, identifiable by its two engines mounted under the wings. The fuselage is predominantly white, with a dark-colored tail fin and a horizontal stabilizer. The aircraft's registration number is visible on the rear fuselage, which is painted in a light color, likely white or beige. The airplane is captured in a mid-flight position, with its landing gear extended, indicating it is either taking off or landing. The wings are straight and the aircraft appears to be in a level flight path. The sky is clear with no visible clouds, suggesting good weather conditions.","- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo
+- Northwest Airlines logo",0,0,0,0,0,0,0,0,0,1,Caltech101,SigLIP,561,4776,0.9551352,0.68415654,0.25177938
+False,"The image depicts a commercial airplane in flight against a clear blue sky. The aircraft is a wide-body jet, identifiable by its large wings and fuselage. The livery on the airplane includes the name ""VOLTAIR"" in bold, uppercase letters on the fuselage. The tail of the plane features a distinctive design with a red and white pattern, which is likely the airline's logo or branding. The airplane is captured in a mid-flight position, with its landing gear extended, indicating that it is either taking off or landing. The wings are spread wide, and the engines are clearly visible, one on each wing. The overall scene is serene and suggests a typical day in the life of a commercial airliner.","The image depicts a small, propeller-driven aircraft in flight against a clear blue sky. The aircraft is a turboprop, identifiable by its two propellers, one on each wing. The fuselage is predominantly white with a red and yellow logo on the tail and the side of the aircraft. The logo features a stylized design that includes a stylized bird or possibly a stylized letter ""E"" in red and yellow. The registration number of the aircraft is visible on the tail, which is a white and red color scheme with the letters ""E"" and ""EY"" in red. The aircraft is in mid-flight, with its landing gear extended, suggesting it is either taking off or landing. The sky is clear, indicating good weather conditions.",- no significant differences,0,0,0,0,0,0,0,0,0,1,Caltech101,SigLIP,5264,5818,0.9539683,0.6500058,-0.010897517
+False,"The image depicts a small, propeller-driven aircraft in flight against a clear blue sky. The aircraft is a turboprop, identifiable by its two propellers, one on each wing. The fuselage is predominantly white with a red and yellow logo on the tail and the side of the aircraft. The logo features a stylized design that includes a stylized bird or possibly a stylized letter ""E"" in red and yellow. The registration number of the aircraft is visible on the tail, which is a white and red color scheme with the letters ""E"" and ""EY"" in red. The aircraft is in mid-flight, with its landing gear extended, suggesting it is either taking off or landing. The sky is clear, indicating good weather conditions.","The image depicts a commercial airplane in flight against a clear blue sky. The aircraft is a McDonnell Douglas MD-11, identifiable by its distinctive livery and design. The airplane is painted in a combination of red, white, and blue colors, with the American Airlines logo prominently displayed on the fuselage. The registration number of the aircraft is visible on the rear of the plane, which is typically a 4-digit alphanumeric code.
+
+The airplane is in flight, as evidenced by the position of the wings and the tail section, which are angled upwards. The wings are spread wide, and the tail section is pointed upwards, indicating that the plane is in the climb phase of its flight. The engines are clearly visible, with the left engine mounted on the left wing and the right engine on the right wing.
+
+The American Airlines logo, which consists of the letters ""AA"" in red, is prominently displayed on the fuselage of the airplane. The logo is situated near the front of the aircraft",- no significant differences,0,0,0,0,0,0,0,0,0,1,Caltech101,SigLIP,5818,6132,0.9518752,0.6428739,-0.00031297863
+True,,,Qwen: images are essentially identical.,0,0,0,0,0,0,0,0,0,1,Caltech101,DINOv2,20,465,0.9905869,0.4258185,0.9612273
+False,"The image depicts a jaguar, a large feline native to the Americas. The jaguar is captured in a dynamic pose, walking on a rocky terrain. The jaguar's coat is a striking pattern of dark brown and black spots, which are characteristic of its species. Its long, slender tail is visible, and it appears to be in mid-stride, with its front paws on the ground and its hind legs raised slightly. The jaguar's eyes are focused forward, and its ears are perked up, indicating alertness. The background consists of rocky outcrops and a natural, somewhat barren landscape, suggesting a wild, natural habitat. The jaguar's posture and the rugged terrain suggest it is in its natural environment, possibly searching for prey or simply moving through its habitat.","The image depicts a jaguar, a large feline native to the Americas. The jaguar is standing on rocky terrain, with its body oriented slightly to the left of the frame. The jaguar's distinctive coat pattern is visible, featuring a pattern of dark spots on a lighter background. The fur appears to be well-groomed and shiny, indicating good health. The jaguar's tail is long and bushy, with a distinctive black tip. Its eyes are partially closed, and it appears to be looking forward with a calm and composed expression. The background consists of rocky outcrops and a few patches of greenery, suggesting a natural habitat such as a rocky hillside or a rocky plain. The overall scene conveys a sense of tranquility and natural beauty.","- The jaguar in Image 1 is walking on a rocky terrain, while the jaguar in Image 2 is standing on rocky terrain.
+- The jaguar in Image 1 has a pattern of dark spots on a lighter background, while the jaguar in Image 2 has a pattern of dark spots on a lighter background.
+- The jaguar in Image 1 has a long, bushy tail with a black tip, while the jaguar in Image 2 has a long, bushy tail with a black tip.
+- The jaguar in Image 1 has its eyes focused forward, while the jaguar in Image 2 has its eyes partially closed.
+- The jaguar in Image 1 is in a dynamic pose, while the jaguar in Image 2 is standing still.",0,0,0,0,0,1,0,0,0,0,Caltech101,DINOv2,55,7297,0.9905976,0.58670044,0.9873919
+False,"The image depicts a man standing outdoors in a well-maintained, landscaped area. The man has short, dark hair and is wearing a dark blue denim shirt. He appears to be in a conversation or interview, as he is looking directly at the camera with a neutral expression.
+
+In the background, there is a white building with a sloped roof and several windows. The building has a modern architectural style. The building is surrounded by a neatly trimmed lawn and a row of small bushes or shrubs. The lawn is green and well-kept, indicating regular maintenance. To the right of the building, there is a tree with a few leaves visible, suggesting it might be spring or summer.
+
+The area around the building is paved with red bricks, and there is a pathway leading to the building. The pathway is bordered by more greenery, including more bushes and plants. The overall setting appears to be a residential or commercial area with a focus on landscaping and cleanliness.
+
+The man's expression and","The image shows a man standing outdoors. He has short, dark hair and is wearing a dark blue shirt. The background includes a building with a white facade and a few windows, and there are green plants and a paved area in front of the building. The man appears to be in a relaxed pose, with his arms by his sides. The overall setting suggests a calm and serene environment.","- man's hair color
+- man's shirt color
+- man's expression
+- man's pose
+- man's background",0,0,0,0,0,0,0,0,0,0,Caltech101,DINOv2,88,8386,0.95421124,0.53633124,0.90156096
+False,"The image depicts a man with short, reddish-brown hair. He is wearing a light-colored shirt. The background appears to be an indoor setting, possibly an office or a study room, as indicated by the presence of metal shelves and a bookshelf filled with various books and papers. The shelves are metallic and have a light-colored finish. The books are stacked neatly, and there are some papers or documents placed on the shelves as well. The overall atmosphere suggests a professional or academic environment.","The image shows a man with reddish hair, wearing a light-colored shirt. He appears to be in a professional setting, possibly an office or a laboratory, as there are shelves and books in the background. The man has a serious expression on his face, and his hair is slightly tousled. The lighting in the image is even, suggesting it was taken indoors.","- man with short, reddish-brown hair
+- wearing a light-colored shirt
+- indoor setting with metal shelves and bookshelf
+- books and papers on shelves
+- professional or academic environment",0,0,0,0,0,0,0,0,0,1,Caltech101,DINOv2,92,7800,0.9602064,0.5832396,0.9402355
+False,"The image depicts a stegosaurus, a type of dinosaur known for its distinctive armor-like scales and long neck. The stegosaurus is rendered in a 3D model, giving it a realistic and detailed appearance. The dinosaur is depicted in a side profile, facing slightly to the left. Its scales are detailed, with a golden-brown coloration that gives it a metallic appearance. The neck is long and extends forward, with a series of small, pointed scales along its length. The head is relatively small compared to the body, and the eyes are small and round. The legs are sturdy and robust, with large, flat feet that are well-suited for walking on rough terrain. The overall design of the stegosaurus is reminiscent of the prehistoric era, with a mix of evolutionary features and fantastical elements.","The image depicts a stegosaurus, a type of dinosaur known for its distinctive armor-like scales. The stegosaurus is depicted in a three-dimensional, realistic style, with a detailed and textured appearance. The scales are prominent and cover the entire body, providing protection against predators. The dinosaur's head is slightly turned to the left, and its eyes are not visible, focusing attention on its scales and armor. The background is a plain, dark color, which helps to highlight the stegosaurus and its intricate scales. The image is labeled with the text ""STEIGEOSSAURUS,"" indicating the species of the stegosaurus.","- The image is labeled with the text ""STEIGEOSSAURUS.""
+- The image depicts a stegosaurus, a type of dinosaur known for its distinctive armor-like scales.
+- The stegosaurus is depicted in a three-dimensional, realistic style with detailed and textured appearance.
+- The scales are prominent and cover the entire body, providing protection against predators.
+- The head is slightly turned to the left, and the eyes are not visible.
+- The background is a plain, dark color, which helps to highlight the stegosaurus and its intricate scales.
+- The image is labeled with the text ""STEIGEOSSAURUS,"" indicating the species of the stegosaurus.
+- The image is not labeled with the text ""STEIGEOSSAURUS,"" indicating the species of the stegosaurus.",0,1,0,0,0,1,0,0,0,0,Caltech101,DINOv2,103,5524,0.9852028,0.5767659,0.8905983
+False,"The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two intersecting circles, one black and one white, forming a complete circle. The black circle is known as the ""Yin"" and the white circle is known as the ""Yang."" The Yin and Yang are considered the two fundamental forces in the universe, representing the yin-yang principle, which is the idea that everything is composed of both yin and yang forces.
+
+In the context of the Yin-Yang symbol, the black circle represents the yin, which is the feminine, passive, and receptive force. The white circle represents the yang, which is the masculine, active, and energetic force. The symbol is often used to represent the balance and harmony of opposing forces, symbolizing the idea that everything is composed of both yin and yang forces.
+
+The Yin-Yang symbol is often","The image depicts a classic symbol known as the ""Yin-Yang"" or ""Taoist Symbol."" This symbol is composed of two intersecting circles, one black and one white, representing the two fundamental forces or principles of the universe: yin and yang. The black circle represents the yin, which is associated with the feminine, passive, and earthy aspects of the universe. The white circle represents the yang, which is associated with the masculine, active, and celestial aspects of the universe.
+
+The symbol is often used to represent balance, harmony, and the duality of opposites. It is a fundamental concept in Taoism, a philosophical system that emphasizes the interconnectedness of all things and the importance of balance and harmony in life.
+
+The Yin-Yang symbol is often used in various forms of art, design, and philosophy to symbolize the interconnectedness of all things and the importance of finding balance and harmony in life.","- Yin-Yang symbol
+- Yin and Yang forces
+- Balance and harmony",0,0,0,0,0,0,0,0,0,1,Caltech101,SigLIP2,84,1732,0.97938156,0.5824605,0.81261396
+False,"The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two intersecting circles, one black and one white, forming a complete circle. The black circle is known as the ""Yin"" and the white circle is known as the ""Yang."" The Yin and Yang are considered the two fundamental forces in the universe, representing the yin-yang principle, which is the idea that everything is composed of both yin and yang forces.
+
+In the context of the Yin-Yang symbol, the black circle represents the yin, which is the feminine, passive, and receptive force. The white circle represents the yang, which is the masculine, active, and energetic force. The symbol is often used to represent the balance and harmony of opposing forces, symbolizing the idea that everything is composed of both yin and yang forces.
+
+The Yin-Yang symbol is often","The image depicts a classic symbol known as the Yin-Yang symbol, which is a fundamental concept in Chinese philosophy and is often associated with the balance and harmony of opposing forces. The symbol consists of two intersecting circles, one black and one white, forming a Y shape. The black circle represents the negative or dark side, while the white circle represents the positive or light side. The two circles are connected by a line, symbolizing the interdependence and transformation between the two opposing forces.
+
+The Yin-Yang symbol is often used to represent the balance between yin (dark, feminine, and passive) and yang (light, masculine, and active) energies. It is a symbol of the universe, representing the dual nature of all things. The symbol is often used in various forms of art, philosophy, and religion, including Taoism, Buddhism, and Chinese culture.
+
+In this image, the Yin-Yang symbol is presented in a simple, clean design with a gray background, which helps to","- Yin-Yang symbol
+- Black circle
+- White circle
+- Intersecting circles
+- Complete circle
+- Yin
+- Yang
+- Negative
+- Positive
+- Interdependence
+- Transformation
+- Dual nature
+- Taoism
+- Buddhism
+- Chinese culture
+- Simple, clean design",0,0,0,0,0,1,0,0,0,0,Caltech101,SigLIP2,84,8550,0.96516687,0.35355824,0.74808514
+False,"The image depicts a scorpion, specifically a type known as the Mojave Desert scorpion (Moloch horridus). This scorpion is characterized by its elongated, segmented body, which is a distinctive feature that helps it to camouflage itself in its natural habitat. The scorpion's body is primarily yellowish-brown, with darker stripes running along its back and a lighter stripe along its sides. The scorpion's legs are slender and elongated, with the front legs being longer than the hind legs. The scorpion's tail is relatively short and has a yellowish-brown coloration, with a few dark spots. The scorpion is positioned on a sandy or rocky surface, with some dry pine needles visible in the background. The scorpion appears to be in a resting or stationary position, with its body oriented towards the camera.","The image depicts a scorpion, specifically a type known as the Mojave Desert scorpion (Moloch horridus). This scorpion is characterized by its elongated, segmented body, which is a distinctive feature that helps it to move quickly and efficiently. The scorpion's body is segmented into several distinct segments, each with a pair of legs attached to it. The legs are adapted for climbing and are covered with spines that provide a means of defense.
+
+The scorpion's body is covered with a protective exoskeleton, which is a hard, waterproof layer that helps to protect the scorpion from predators and harsh environmental conditions. The scorpion's coloration varies depending on the species, but in this image, the scorpion appears to be a light brown or beige color, which is typical for many desert scorpions.
+
+The scorpion is positioned on a sandy or gravelly surface, which is common in desert environments. The background shows some dry, brownish-yellow vegetation,","- scorpion
+- elongated, segmented body
+- yellowish-brown coloration
+- slender, elongated legs
+- short tail
+- sandy or rocky surface
+- dry pine needles
+- resting or stationary position",0,1,0,0,0,1,0,0,0,0,Caltech101,SigLIP2,116,5039,0.9573026,0.33013597,0.98294854
+False,"The image shows a person with long, dark hair tied back in a ponytail. The individual is wearing a white shirt with a patterned design. The background appears to be an office setting, with shelves and some office supplies visible. The person is standing in front of a wall with a light-colored texture. The lighting in the image is natural, suggesting it was taken indoors.","The image shows a person with long black hair. The individual is wearing a white top with a patterned design. The background appears to be an indoor setting, possibly a laboratory or office, with shelves and books visible in the background. The lighting is bright, and the person is positioned in front of a black surface, which could be a desk or table.","- Person with long, dark hair tied back in a ponytail
+- Wearing a white shirt with a patterned design
+- Background of an office setting with shelves and office supplies
+- Light-colored texture on the wall
+- Natural lighting indoors",0,1,0,0,0,1,0,0,0,0,Caltech101,SigLIP2,124,7259,0.9560412,0.37529156,0.8222045
+False,"The image shows a person with long, dark hair tied back in a ponytail. The individual is wearing a white shirt with a patterned design. The background appears to be an office setting, with shelves and some office supplies visible. The person is standing in front of a wall with a light-colored texture. The lighting in the image is natural, suggesting it was taken indoors.","The image shows a person with long, dark hair tied back in a ponytail. The individual is wearing a light-colored, possibly white, shirt with a pattern that is not clearly visible. The background appears to be an indoor setting, possibly a laboratory or a medical office, as there are shelves with various items, including what looks like medical equipment or test tubes. The lighting is bright, and the person is positioned in the foreground, facing the camera directly.","- Person with long, dark hair tied back in a ponytail
+- Wearing a white shirt with a pattern
+- Background of an office setting with shelves and office supplies
+- Lighting is natural, suggesting it was taken indoors
+- No significant differences",0,0,0,0,0,0,0,0,0,1,Caltech101,SigLIP2,124,7137,0.9553415,0.38882822,0.8273601
+False,"The image depicts a small, striped salamander resting on a wooden post. The salamander has a slender body with a distinctive, horizontal stripe running down its back. The stripes are a mix of dark and light shades, giving it a striped appearance. The salamander's tail is elongated and extends from the top of its body, ending near the base of the wooden post. The post itself is weathered and has a rough texture, with visible cracks and splits. The background is blurred, focusing attention on the salamander and the post. The overall scene suggests a natural, outdoor setting, possibly in a forest or woodland area.","The image depicts a small, terrestrial salamander, likely a species of newt or salamander, perched on a vertical wooden post. The salamander has a slender, elongated body with a smooth, shiny skin that appears to be covered in a fine, powdery substance, possibly scales or a protective layer. The coloration of the salamander is a mix of earthy tones, with a gradient from a lighter, almost beige or cream color at the top to a darker, more brownish hue towards the bottom. The salamander's tail is slightly curved and extends downward, while its front legs are visible, gripping the post. The post itself is weathered, with a rough texture and a dark, almost black color, indicating it has been exposed to the elements for a long time. The background is blurred, focusing attention on the salamander and the post.","- The salamander in Image 1 has a slender, elongated body with a distinctive, horizontal stripe running down its back, while the salamander in Image 2 has a smooth, shiny skin covered in a fine, powdery substance.
+- The salamander in Image 1 has a tail that extends from the top of its body, ending near the base of the wooden post, while the salamander in Image 2 has a slightly curved tail that extends downward.
+- The background in Image 1 is blurred, focusing attention on the salamander and the post, while the background in Image 2 is not blurred and is not visible in the image.",0,0,0,0,1,1,0,0,1,0,ImageNet-test,CLIP,430,46062,0.972406,0.43436125,0.89601374
+False,"The image depicts a vibrant scene of a butterfly resting on a purple flower. The butterfly has a striking pattern of orange and black wings, with white spots and lines. Its wings are spread open, showcasing the intricate details of its design. The flower it is perched on is a type of butterfly bush, commonly known as Buddleja, which is characterized by its small, dense clusters of flowers. The flowers are a deep purple color, with a few white stamens visible among the petals. The leaves surrounding the flower are green and appear to be part of the same plant species, providing a lush green backdrop. The overall scene is serene and natural, capturing a moment of tranquility in a garden or a backyard setting.","The image depicts a butterfly resting on a purple flower cluster. The butterfly has a striking pattern of orange and black wings, with white spots and lines. The wings are spread out, showcasing the intricate details of the butterfly's body. The flower cluster is dense with small, round, purple blossoms, which are densely packed together. The leaves of the plant are green and appear to be slightly wilted, indicating that the plant might be in a state of decline or that the butterfly is feeding on the flowers. The background is blurred, focusing attention on the butterfly and the flower cluster. The overall scene suggests a natural, outdoor setting, possibly during the summer or autumn when butterflies are commonly seen on flowers.","- butterfly
+- wings
+- orange and black pattern
+- white spots and lines
+- intricate details
+- butterfly bush
+- deep purple color
+- white stamens
+- green leaves
+- dense flower cluster
+- green background",0,1,0,0,0,1,0,0,0,0,ImageNet-test,CLIP,540,99759,0.9611961,0.4276731,0.88607204
+False,"The image depicts a vibrant scene of a butterfly resting on a purple flower. The butterfly has a striking pattern of orange and black wings, with white spots and lines. Its wings are spread open, showcasing the intricate details of its design. The flower it is perched on is a type of butterfly bush, commonly known as Buddleja, which is characterized by its small, dense clusters of flowers. The flowers are a deep purple color, with a few white stamens visible among the petals. The leaves surrounding the flower are green and appear to be part of the same plant species, providing a lush green backdrop. The overall scene is serene and natural, capturing a moment of tranquility in a garden or a backyard setting.","The image depicts a butterfly perched on a purple flower. The butterfly has a striking orange and black coloration with white spots on its wings. The flower it is on is a type of butterfly bush, commonly known as Buddleja, which is characterized by its small, fragrant flowers in shades of purple and pink. The butterfly's wings are open, showcasing its intricate patterns and markings. The background is a blurred natural setting, likely a garden or a park, with green foliage and other plants visible. The overall scene is serene and vibrant, capturing a moment of nature's beauty.","- butterfly
+- wings
+- pattern
+- orange and black coloration
+- white spots
+- white lines
+- butterfly bush
+- purple flowers
+- white stamens
+- green leaves
+- green foliage
+- natural setting",0,0,0,0,0,1,0,0,0,0,ImageNet-test,CLIP,540,88939,0.9570591,0.36424538,0.89318955
+False,"The image depicts a vibrant scene of a butterfly resting on a purple flower. The butterfly has a striking pattern of orange and black wings, with white spots and lines. Its wings are spread open, showcasing the intricate details of its design. The flower it is perched on is a type of butterfly bush, commonly known as Buddleja, which is characterized by its small, dense clusters of flowers. The flowers are a deep purple color, with a few white stamens visible among the petals. The leaves surrounding the flower are green and appear to be part of the same plant species, providing a lush green backdrop. The overall scene is serene and natural, capturing a moment of tranquility in a garden or a backyard setting.","The image depicts a butterfly resting on a cluster of purple flowers. The butterfly has a striking orange and black coloration with white spots on its wings. Its wings are spread open, revealing its intricate patterns. The flowers are small and clustered together, with their petals forming a dense, lush bloom. The leaves surrounding the flowers are green and appear healthy, with some leaves showing signs of browning at the edges, indicating possible stress or aging. The background is a mix of green foliage and some brownish areas, suggesting a natural, outdoor setting. The overall scene is serene and peaceful, with the butterfly appearing to be in a state of rest or contemplation.","- butterfly
+- orange and black coloration
+- white spots
+- intricate patterns
+- wings spread open
+- butterfly bush
+- deep purple flowers
+- white stamens
+- green leaves
+- green foliage
+- brownish areas
+- natural outdoor setting",0,1,0,0,0,1,0,0,0,0,ImageNet-test,CLIP,540,58773,0.9504739,0.27655137,0.83827424
+False,"The image depicts a close-up view of several acorns. The acorns are green and appear to be in various stages of ripeness. Some of the acorns have a brownish cap, which is the seed-bearing part of the nut. The caps are attached to the green bodies of the acorns, which are the edible part. The acorns are scattered on a white surface, which could be a table or a countertop. The background is plain and does not distract from the acorns. The acorns are arranged in a somewhat random manner, with some overlapping each other. The texture of the acorns is smooth, and the green color is vibrant, indicating that they are fresh and not yet ripe.","The image depicts a collection of acorns, which are the seeds of oak trees. The acorns are green and appear to be in various stages of ripeness. Some of the acorns are fully mature, with their brownish-buff-colored caps and smooth, shiny shells. Others are still green and unripe, with their caps appearing slightly darker than the shells. The acorns are scattered on a white surface, which contrasts with their green color, making them stand out prominently. The background is plain and does not distract from the acorns.","- acorns
+- green color
+- ripeness
+- white surface
+- plain background",0,0,0,0,0,1,0,0,0,0,ImageNet-test,CLIP,1091,75420,0.96526265,0.25439048,0.97228354
+False,"The image shows a cylindrical metal lock with a keyhole and two keys attached to it. The lock appears to be made of a shiny, polished metal, likely stainless steel or chrome, given its reflective surface. The keyhole is circular and has a key inserted into it, indicating that the lock is operational and ready to be used. The key is a standard key with a round head and a series of slots for turning.
+
+The lock has a metallic frame with a hinge mechanism, which allows the cylinder to rotate. The cylinder itself is circular and has a keyway for the inserted key. The keyway is marked with a series of numbers and letters, which could be used for identification or locking purposes. The numbers and letters are likely part of a serial number or a unique identifier for the lock.
+
+The lock is mounted on a metal bracket, which provides stability and support. The bracket is attached to the cylinder with screws or bolts, ensuring that the lock remains securely in place. The overall design suggests","The image depicts a digital safe, commonly used for storing valuable items. The safe has a rectangular body with a flat top and a slightly raised front panel. The front panel features a digital display screen and a keypad. The display screen is oval-shaped and has a black background with white text and numbers. The keypad consists of a series of buttons arranged in a grid pattern, with numbers from 0 to 9 and possibly additional symbols or functions.
+
+The safe has a metallic finish, likely made of steel or a similar material, which is typical for such security devices. The front panel is framed with a white border, giving it a clean and modern appearance. The safe appears to be closed, as indicated by the visible latch mechanism on the front panel.
+
+On the right side of the safe, there is a small, rectangular plate with a metallic finish. This plate likely serves as a key or a combination lock for the safe. The plate has a metallic latch or button, which is used to open the","- cylindrical metal lock with a keyhole and two keys attached
+- shiny, polished metal, likely stainless steel or chrome
+- metallic frame with a hinge mechanism
+- circular cylinder with a keyway
+- metal bracket for stability
+- digital display screen with a keypad
+- rectangular plate with a metallic latch or button",0,1,0,0,0,1,0,0,0,0,ImageNet-test,SigLIP,1434,35370,0.95697105,0.68242764,0.2436682
+False,"The image depicts a vibrant scene featuring a yellow flower with a prominent yellow center and green petals. The flower is positioned on a slender green stem, which is slightly curved at the base. The flower appears to be in full bloom, with its petals fully open and displaying a bright yellow color. 
+
+Resting on the flower is a butterfly, which is a prominent feature of the image. The butterfly has a green body with some brownish markings, particularly on its wings. Its wings are spread out, revealing intricate patterns that are characteristic of butterflies. The butterfly's legs are visible, and it appears to be feeding or resting on the flower.
+
+The background of the image is blurred, creating a bokeh effect that highlights the sharpness of the butterfly and the flower. The blurred background suggests a natural, outdoor setting, possibly a garden or a meadow, with hints of greenery and possibly some grass or plants in the distance. The overall composition of the image is balanced, with the butterfly and the","The image depicts a butterfly perched on a white flower. The butterfly has a bright yellow body with some brownish markings, particularly on its wings and legs. Its wings are open, revealing its intricate patterns and veins. The butterfly's antennae are long and slender, and it has a pair of black eyespots on its wings. The flower it is perched on has small white petals and a yellow center, which is typical of many aster or daisy-like flowers. The background is blurred, suggesting a natural, outdoor setting with greenery and possibly some other plants or flowers. The image is signed ""pieceoflace photography.""","- butterfly
+- yellow flower
+- green stem
+- yellow center
+- green petals
+- blurred background",0,0,0,0,0,1,0,0,0,0,ImageNet-test,SigLIP,5118,50638,0.9568369,0.89942276,0.21369743
+False,"The image depicts a vibrant scene featuring a yellow flower with a prominent yellow center and green petals. The flower is positioned on a slender green stem, which is slightly curved at the base. The flower appears to be in full bloom, with its petals fully open and displaying a bright yellow color. 
+
+Resting on the flower is a butterfly, which is a prominent feature of the image. The butterfly has a green body with some brownish markings, particularly on its wings. Its wings are spread out, revealing intricate patterns that are characteristic of butterflies. The butterfly's legs are visible, and it appears to be feeding or resting on the flower.
+
+The background of the image is blurred, creating a bokeh effect that highlights the sharpness of the butterfly and the flower. The blurred background suggests a natural, outdoor setting, possibly a garden or a meadow, with hints of greenery and possibly some grass or plants in the distance. The overall composition of the image is balanced, with the butterfly and the","The image depicts a close-up of a butterfly perched on a yellow flower. The butterfly has a light yellow body with darker spots and markings, including a black spot on its wing. Its wings are spread open, revealing its delicate texture and veins. The flower is a bright yellow, with a prominent yellow center that appears to be a type of sunflower or a similar species. The petals of the flower are slightly curled, and the background is a soft blur of green and purple hues, suggesting a natural, outdoor setting. The overall composition of the image highlights the interaction between the butterfly and the flower, capturing a moment of stillness and beauty in nature.","- butterfly
+- yellow flower
+- green stem
+- yellow center",0,0,0,0,0,1,0,0,0,0,ImageNet-test,SigLIP,5118,41278,0.9563563,0.91979575,0.5369067
+False,"The image shows a young child with light-colored hair, wearing a striped blue and white shirt. The child is holding a chocolate ice cream bar with nuts on top, which is partially in their mouth. The ice cream bar appears to be melting slightly, as indicated by the visible ice and the child's slightly open mouth. The child is also wearing a dark-colored jacket or sweater over the striped shirt.
+
+In the background, there is a red toolbox or storage container with a transparent lid, which is partially visible. The background also includes a white wall and some other indistinct objects, suggesting that the scene is taking place in a room or a kitchen area. The lighting in the image is bright, likely from natural light coming from a window or a nearby light source. The overall atmosphere of the image is casual and everyday, capturing a moment of simple enjoyment.","The image depicts a young child sitting indoors, holding a large water bottle. The child appears to be a toddler, with short hair and a joyful expression on their face. The child is wearing a pink outfit with a floral pattern, which includes red and pink flowers. The outfit also features a bib, which is a common accessory for children to protect their clothing from spills and messes.
+
+The water bottle is large, with a white cap and a clear plastic body. The child is holding the bottle with both hands, gripping it firmly. The background of the image is somewhat blurred, but it appears to be an indoor setting, possibly a kitchen or a dining area, given the presence of a window and some furniture in the background. The window has a white frame and is partially open, allowing natural light to enter the room.
+
+The image has a vintage or retro filter applied, giving it a nostalgic feel. The filter adds a grainy texture to the image, which enhances the overall aesthetic and adds a","- child with light-colored hair
+- striped blue and white shirt
+- chocolate ice cream bar with nuts
+- partially melted ice cream bar
+- dark-colored jacket or sweater
+- red toolbox or storage container
+- white wall
+- indistinct background objects
+- bright lighting
+- casual atmosphere",0,0,1,0,0,1,0,0,0,0,ImageNet-test,SigLIP,9645,80658,0.9792074,0.59169745,0.1172642
+False,"The image shows a young child with light-colored hair, wearing a striped blue and white shirt. The child is holding a chocolate ice cream bar with nuts on top, which is partially in their mouth. The ice cream bar appears to be melting slightly, as indicated by the visible ice and the child's slightly open mouth. The child is also wearing a dark-colored jacket or sweater over the striped shirt.
+
+In the background, there is a red toolbox or storage container with a transparent lid, which is partially visible. The background also includes a white wall and some other indistinct objects, suggesting that the scene is taking place in a room or a kitchen area. The lighting in the image is bright, likely from natural light coming from a window or a nearby light source. The overall atmosphere of the image is casual and everyday, capturing a moment of simple enjoyment.","The image shows a close-up of a hand holding a small, colorful pendant necklace. The pendant features a doll-like figure with pink hair, wearing a blue dress adorned with red and white floral patterns. The doll has a red bow on its head. The necklace is made of a shiny, silver chain with a small, round pendant at the end. The hand holding the necklace is partially visible, with the fingers spread out, showcasing the intricate details of the pendant. The background appears to be a neutral, possibly indoor setting, with some indistinct objects and possibly a book or a piece of paper visible in the background.",- no significant differences,0,0,0,0,0,0,0,0,0,1,ImageNet-test,SigLIP,9645,88803,0.97015524,0.44079024,0.06307247
+False,"The image depicts a person standing in front of the Arc de Triomphe, a famous monument located in Paris, France. The Arc de Triomphe is a triumphal arch that commemorates the victories of Napoleon Bonaparte during the French Revolutionary Wars. The arch is constructed of stone and features intricate carvings and sculptures.
+
+The person in the image is wearing a black coat and appears to be standing on a paved area with a metal fence in front of the monument. The fence is made of metal and appears to be a barrier to protect the monument from unauthorized access. In the background, there are several cars parked along the street, and the sky is overcast, suggesting a cloudy day.
+
+The Arc de Triomphe is a significant landmark in Paris and is one of the most recognizable structures in the city. It is located on the Champs-Élysées, a famous street that runs through the heart of the city. The monument is surrounded by various buildings and structures, including","The image depicts a couple standing in front of the Arc de Triomphe, a famous monument located in Paris, France. The Arc de Triomphe is a triumphal arch that commemorates the victories of Napoleon Bonaparte. The couple is positioned in the foreground, with the Arc de Triomphe in the background. The couple appears to be posing for a photograph, with the woman on the right holding a handbag and the man on the left holding her hand. 
+
+In the background, there are several elements that contribute to the scene. There is a large green bus parked on the left side of the image, and several cars are visible on the right side, indicating that the location is a busy street. The sky is overcast, suggesting a cloudy day. The ground is covered with a layer of snow or a light dusting of snow, which is typical in Paris during winter months. The overall atmosphere of the image is serene and picturesque, capturing a moment of leisure and enjoyment","- The couple is not present in Image 2.
+- The couple is not holding a handbag in Image 2.
+- The couple is not holding hands in Image 2.
+- The ground is covered with snow in Image 2.
+- The background includes a large green bus and several cars in Image 2.",0,0,0,0,0,0,0,0,0,1,ImageNet-test,DINOv2,138,17903,0.96975565,0.5208087,0.78720653
+False,"The image depicts a person standing in front of the Arc de Triomphe, a famous monument located in Paris, France. The Arc de Triomphe is a triumphal arch that commemorates the victories of Napoleon Bonaparte during the French Revolutionary Wars. The arch is constructed of stone and features intricate carvings and sculptures.
+
+The person in the image is wearing a black coat and appears to be standing on a paved area with a metal fence in front of the monument. The fence is made of metal and appears to be a barrier to protect the monument from unauthorized access. In the background, there are several cars parked along the street, and the sky is overcast, suggesting a cloudy day.
+
+The Arc de Triomphe is a significant landmark in Paris and is one of the most recognizable structures in the city. It is located on the Champs-Élysées, a famous street that runs through the heart of the city. The monument is surrounded by various buildings and structures, including","The image depicts the Arc de Triomphe, a famous monument located in Paris, France. The Arc de Triomphe is a triumphal arch that commemorates the victories of Napoleon Bonaparte. It is a grand, symmetrical structure made of white marble and features intricate carvings and sculptures.
+
+The arch is composed of three main sections: the base, the arch, and the top. The base is adorned with sculptures of soldiers and horses, while the arch itself is a large, arched structure with a central column. The top section includes a statue of the goddess Victoria, who is depicted as a woman with a crown on her head, holding a globe and a sword.
+
+In the foreground of the image, there are several people walking around the base of the arch. They appear to be tourists, as they are dressed in casual attire and carrying backpacks. The sky is partly cloudy, suggesting a pleasant day. The surrounding area includes a few trees and a few buildings in the","- The image in Image 1 is a photograph of a person standing in front of the Arc de Triomphe, while the image in Image 2 is a photograph of the Arc de Triomphe itself.
+- The person in Image 1 is wearing a black coat and appears to be standing on a paved area with a metal fence in front of the monument. The fence is made of metal and appears to be a barrier to protect the monument from unauthorized access.
+- The background of Image 1 includes several cars parked along the street, while the background of Image 2 is empty.
+- The sky in Image 1 is overcast, while the sky in Image 2 is partly cloudy.
+- The Arc de Triomphe in Image 1 is a triumphal arch that commemorates the victories of Napoleon Bonaparte during the French Revolutionary Wars, while the Arc de Triomphe in Image 2 is a grand, symmetrical structure made of white marble and features intricate carvings and sculptures.",0,0,0,0,0,0,0,0,0,1,ImageNet-test,DINOv2,138,8351,0.9530021,0.33569536,0.83788604
+False,"The image shows two iPods placed side by side on a wooden desk. The iPod on the left is a classic model, identifiable by its round, circular shape and the physical buttons on the front. The iPod on the right is a newer model, which has a more sleek and modern design with a flat screen and a more minimalist aesthetic. Both iPods have the ""MENU"" button located at the bottom center of the front panel, which is a common feature in iPods.
+
+The classic iPod on the left has a physical volume control and a physical play/pause button, while the newer iPod on the right has a physical play/pause button and a physical volume control. The newer iPod also has a larger screen, which is more prominent and easier to see than the smaller screen on the classic iPod.
+
+In the background, there is a computer keyboard with a blue light, which appears to be a computer mouse. The desk surface is wooden, and the overall setting suggests a home or office environment.","The image displays a collection of six iPods, each with a unique design and color. Here is a detailed description of each iPod:
+
+1. **Leftmost iPod**: This iPod is a vibrant pink color. It has a circular button on the left side, which is likely used for volume control. The screen is off, and there is a small white logo on the front.
+
+2. **Second iPod from the left**: This is a blue iPod. It has a white screen and a white button on the right side, which is likely used for power or volume control. The screen is off, and there is a small white logo on the front.
+
+3. **Third iPod from the left**: This is a white iPod. It has a white screen and a white button on the right side, which is likely used for power or volume control. The screen is off, and there is a small white logo on the front.
+
+4. **Fourth iPod from the left**: This is a white iPod",- no significant differences,0,0,0,0,0,0,0,0,0,1,ImageNet-test,DINOv2,260,91947,0.95204014,0.098598756,0.87098503
+False,"The image depicts a graduation cap, specifically a mortarboard, which is a traditional academic cap worn by students during graduation ceremonies. The cap is predominantly black, with a wide brim that is slightly curved at the top. The brim is adorned with an orange tassel, which is a common feature in graduation caps. The tassel is made of fine, long strands of orange thread or ribbon, which adds a vibrant and celebratory touch to the cap. The cap is positioned against a plain, light-colored background, which helps to highlight the cap and its details. The overall composition of the image is simple and focused, with the graduation cap being the central element.","The image depicts a graduation cap, specifically a mortarboard, which is a traditional academic cap worn by students during graduation ceremonies. The cap is predominantly black, with a gold tassel hanging from the top. The tassel is a common symbol of graduation, representing the completion of academic studies and the transition from student to graduate. The cap is placed against a plain white background, which helps to highlight the cap and its details. The overall composition of the image is simple and focused, emphasizing the graduation cap as the central subject.","- graduation cap
+- mortarboard
+- black color
+- wide brim
+- orange tassel
+- plain light-colored background",0,0,0,0,0,1,0,0,0,0,ImageNet-test,DINOv2,292,41117,0.95506763,0.1980587,0.94598556
+False,"The image depicts a koala bear, a marsupial native to Australia, perched on a tree branch. The koala is in a relaxed, resting position, with its body curled up and its head resting on its front paws. The bear's fur is predominantly grey with some white patches, and it has a distinctive black nose and eyes. The koala is holding onto a branch with its front paws, and its back paws are tucked under its body. The tree branch it is on appears to be a eucalyptus, as indicated by the green leaves and the texture of the bark. The background shows a natural environment with more trees and foliage, suggesting that the koala is in a forested area. The overall scene conveys a sense of tranquility and the koala's natural habitat.","The image depicts a koala bear, a native marsupial native to Australia, perched on a branch of a tree. The koala has a distinctive grayish-brown fur coat with lighter patches, particularly around its face and paws. Its ears are large and rounded, and it has a bushy tail. The koala is gripping a branch with its front paws, which are thick and powerful for climbing. The koala's front paws are positioned on a rough, brown log, which it is using as a foothold. The background shows a natural environment with green foliage, including leaves and branches, indicating that the koala is in a tree. The overall scene is serene and natural, showcasing the koala's adaptability and ability to live in various environments.","- koala bear
+- eucalyptus tree branch
+- natural environment with trees and foliage
+- relaxed, resting position
+- curled up body
+- black nose and eyes
+- white patches on fur
+- bushy tail
+- large, rounded ears
+- thick, powerful front paws
+- rough, brown log
+- natural habitat",0,0,0,0,0,1,0,0,0,0,ImageNet-test,DINOv2,341,1563,0.95579505,0.4605373,0.9344888
+False,"The image depicts a man seated at a table, engaged in a meal. He is wearing a light-colored, short-sleeved shirt with a pink and white striped pattern. The shirt is tucked into a dark-colored pair of pants. The man has short, gray hair and is wearing glasses with a black frame. His facial expression appears to be neutral or slightly focused, possibly on the food in front of him.
+
+The table is covered with a dark-colored tablecloth, and there is a place mat with an orange border. On the table, there is a plate with a burrito or a similar rolled food item, which appears to be filled with various ingredients such as lettuce, tomato, and possibly some cheese. The burrito is wrapped in a tortilla and is placed on a white plate. Next to the burrito, there is a small container of guacamole, which is green and appears to be fresh. Additionally, there is a small container of sour cream or mayonnaise,","The image depicts a person sitting at a table, seemingly engaged in eating a large, round, yellowish-brown pretzel. The pretzel is held in both hands, with the person's mouth open, indicating that they are in the process of biting into it. The person is wearing glasses and a striped shirt with a combination of red and black colors. The background is dark, suggesting that the setting might be indoors, possibly in a restaurant or a similar dining environment. The table is covered with a red tablecloth, and there are some items on it, including what appears to be a plastic plate with a yellow rim and some food on it. The overall atmosphere of the image is casual and relaxed.","- man wearing glasses
+- man wearing a light-colored shirt
+- man wearing dark-colored pants
+- man with short gray hair
+- man with neutral facial expression
+- man with a plate of burrito
+- man with a plate of guacamole
+- man with a plate of sour cream or mayonnaise
+- table covered with a dark-colored tablecloth
+- table with an orange border
+- table with a place mat
+- table with a plate of food",0,1,1,1,1,1,1,0,0,0,ImageNet-test,SigLIP2,130,35623,0.9535849,0.58107173,0.17573161
+False,"The image depicts a fish, specifically a pufferfish, swimming in an aquarium. The pufferfish has a distinctive appearance with a large, rounded body covered in numerous small, bony spines. The fish's skin is a mix of yellow and white, and it has a somewhat squinty, almost comical face with large, dark eyes and a small mouth. The fish's eyes are closed, giving it a somewhat serene or calm expression.
+
+The background of the image shows other fish and possibly coral or aquatic plants, indicating that the aquarium is well-ventilated and contains a variety of marine life. The lighting in the aquarium is bright, highlighting the fish and creating a clear contrast between the fish's vibrant colors and the surrounding environment.
+
+The pufferfish's spines are visible, and they appear to be tightly packed together, which is characteristic of pufferfish. The fish's body is elongated and streamlined, designed for efficient swimming and hunting in the ocean.
+
+Overall,","The image depicts a shark swimming in an aquarium setting. The shark is centrally positioned and appears to be a large species, possibly a bull shark (Carcharhinus leucas). The shark's body is streamlined, with a dark gray or black coloration, and it has a sharp, pointed snout. The fins are elongated and streamlined, typical of sharks, with a dark coloration that contrasts with the lighter body.
+
+The background of the image is a deep blue, indicating the presence of water. The water appears to be clear, allowing the shark and other aquatic life to be visible. There are other fish and marine life visible in the background, including what appears to be a variety of smaller sharks and possibly other types of fish. The aquarium setting includes various types of aquatic plants, which are not clearly distinguishable but contribute to the overall aquatic environment.
+
+The lighting in the aquarium is bright, with a blue hue that enhances the visibility of the shark and other marine life. The water",- No significant differences,0,0,0,0,0,0,0,0,0,1,ImageNet-test,SigLIP2,423,87387,0.9577522,0.68387365,0.17249879
+False,"The image shows a measuring cup with a transparent, glass body and a green handle. The cup is labeled with red text, indicating its capacity in both cups and tablespoons. The markings on the cup are as follows:
+
+- The cup is labeled ""2 cups"" at the top.
+- Below that, there are several measurements in cups and tablespoons:
+  - 1 cup
+  - 3/4 cup
+  - 1/2 cup
+  - 3/4 cup
+  - 1/2 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/4 cup
+  - 1/","The image depicts a handheld magnifying glass with a blue handle and a circular lens. The magnifying glass is designed to be lightweight and portable, suitable for various tasks such as reading, crafting, or examining small objects. The handle is made of a glossy, reflective material, likely plastic or a similar synthetic material, which gives it a sleek and modern appearance. The handle is ergonomically designed to provide a comfortable grip.
+
+The magnifying glass features a central circular lens that is likely made of glass or a similar transparent material. The lens is encased in a blue frame that matches the handle, creating a cohesive design. The lens appears to be of high quality, providing a clear and focused image when placed over a surface.
+
+On the handle, there is a small, rectangular button or switch located near the center. This button is likely used to turn on the magnifying glass or to adjust its brightness. The button is designed to be easy to press, ensuring that it is accessible and convenient for","- transparent glass body
+- green handle
+- red text
+- capacity labels (2 cups, 1 cup, 3/4 cup, 1/2 cup, 3/4 cup, 1/2 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4 cup, 1/4",0,0,0,1,0,1,0,0,0,0,ImageNet-test,SigLIP2,572,78263,0.95882785,0.57483,0.082709774
+False,"The image depicts two polar bears in a snowy landscape. The bears are engaged in a playful interaction, with one bear sitting on its hind legs and the other bear standing on its hind legs. The standing bear is holding the sitting bear by its neck, which is a common behavior among polar bears to establish dominance or to playfully interact. The background shows a vast expanse of snow-covered ground, with a clear sky above, indicating a cold, possibly arctic environment. The bears' fur is a light beige color, typical of polar bears, and they appear to be in good health and condition. The interaction between the bears suggests a social behavior common among polar bears, which often engage in play and social interactions to maintain their social bonds.","The image depicts a white egg with a bandage on it. The bandage is placed in the shape of an ""X"" across the egg's surface. The bandage appears to be made of a light brown or beige material, possibly adhesive tape or plaster. The egg is placed against a plain, light blue background, which provides a neutral and unobtrusive backdrop that highlights the bandaged egg. The overall composition of the image is simple and straightforward, focusing solely on the egg and the bandage.","- polar bears
+- snowy landscape
+- cold, possibly arctic environment
+- light beige fur
+- social behavior
+- playfulness
+- dominance
+- interaction
+- bandaged egg
+- plain, light blue background",0,0,1,0,0,1,0,0,0,0,ImageNet-test,SigLIP2,646,63528,0.9561007,0.26546997,-0.032665607
+False,"The image depicts two polar bears in a snowy landscape. The bears are engaged in a playful interaction, with one bear sitting on its hind legs and the other bear standing on its hind legs. The standing bear is holding the sitting bear by its neck, which is a common behavior among polar bears to establish dominance or to playfully interact. The background shows a vast expanse of snow-covered ground, with a clear sky above, indicating a cold, possibly arctic environment. The bears' fur is a light beige color, typical of polar bears, and they appear to be in good health and condition. The interaction between the bears suggests a social behavior common among polar bears, which often engage in play and social interactions to maintain their social bonds.","The image is a black-and-white photograph of a young girl sitting at a desk. She is wearing a graduation cap, which suggests that she may be in the process of graduating from school. The girl has curly hair and is wearing glasses. She is also dressed in a short-sleeved dress with a ruffled collar, which is typical of formal attire from the mid-20th century. The desk in front of her is open, revealing an open book, indicating that she might be studying or preparing for an exam. The background is plain, focusing attention on the girl and her actions.","- bears
+- snowy landscape
+- polar bears
+- playful interaction
+- interaction
+- social behavior
+- social bonds
+- social interactions
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social bonds
+- social behavior
+- social interactions
+- social",0,0,0,0,0,0,0,0,0,1,ImageNet-test,SigLIP2,646,84404,0.9506455,0.33122057,-0.04034052
