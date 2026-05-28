@@ -9,6 +9,7 @@ Plik do śledzenia parametrów użytych do wygenerowania każdego pliku CSV wyni
 ```
 results_A/   — Metoda A: osobny opis każdego obrazka → kategoryzacja różnic
 results_B/   — Metoda B: bezpośrednie porównanie pary obrazków przez Qwena
+results_C/   — Metoda C: usunięcie identycznych zdjęć → metoda A
 ```
 
 ---
@@ -222,6 +223,77 @@ Równy podział i brak możliwości weryfikacji co zdecydowało o takim przypisa
 
 ---
 
+## results_C/
+
+### `results_method_C.csv`
+
+| Parametr | Wartość |
+|---|---|
+| Notebook | `method_C_identity_screen_then_diff.ipynb` |
+| Dataset | Caltech-101 + ImageNet |
+| SELECTION | do 30 par z każdego z plików `["clip_caltech_blind_spots.csv", clip_imagenet_test_blind_spots.csv", 
+ "dino_caltech_blind_spots.csv", "dino_imagenet_test_blind_spots.csv", 
+ "siglip_caltech_blind_spots.csv", "siglip_imagenet_test_blind_spots.csv",
+ "siglip2_caltech_blind_spots.csv", "siglip2_imagenet_test_blind_spots.csv"]` |
+| REF_THRESHOLD | 0.65 |
+| QWEN_ID | `Qwen/Qwen2-VL-2B-Instruct` |
+| MAX_NEW_TOKENS_DESC | 200+400+300 |
+| min_pixels / max_pixels | 256×28×28 / 512×28×28 |
+
+**IDENTITY_PROMPT:**
+```
+Look at these two images carefully.
+Are they essentially identical -- same subject, same scene, no meaningful visual differences?
+Answer with exactly one word: YES or NO.
+```
+
+**BULLETPOINTS_DIFFERENCES_PROMPT***
+```
+The following are the result of captioning two images:
+
+Image 1: {cap1}
+Image 2: {cap2}
+
+I am a machine learning researcher trying to figure out the EXACT differences between these two images. You must ONLY list things that are present in Image 1 BUT ABSENT in Image 2.
+CRITICAL RULE: DO NOT list objects, subjects, or backgrounds that exist in both images (e.g., if both have a jaguar, DO NOT list 'jaguar'). If the images describe the exact same main subjects and scene, output exactly: * "no significant differences"
+
+Answer with bullet points '*' ONLY. Your response:
+```
+
+**CATEGORIZE_PROMPT:**
+```
+Based on the following description of differences between two images, classify which categories apply.
+Respond ONLY with a valid JSON object. Example format:
+{{
+  "Presence_Of_Features": 1,
+  "Color_And_Appearance": 0
+}}
+Do not include markdown formatting or explanations.
+
+Categories (1 = applies, 0 = does not apply):
+- Orientation_And_Direction: object facing differently, flipped, or rotated
+- Presence_Of_Features: specific part added or missing (glasses, handle, leaf...)
+- State_And_Condition: different state (open/closed, broken/whole, wet/dry...)
+- Quantity_And_Count: number of objects differs
+- Positional_Context: objects placed differently relative to background
+- Color_And_Appearance: changes in colors, lighting, or vibrancy
+- Structural_Characteristics: core shape, material, or build is different
+- Text: differences in words, numbers, or logos
+- Viewpoint_Perspective: camera angle, zoom, or framing differs
+- No_Difference: the images are essentially identical
+
+Description:
+{description}
+
+JSON:
+```
+
+**Uwagi:**
+Wywołane tylko na części zdjęć, ale już tutaj daje słabe wyniki. Nie opisuje dobrze różnic ani nie przypisuje dobrze kategorii.
+
+
+---
+
 ## Prompty — pełna lista wersji
 
 | Wersja | Plik | Podejście | MAX_NEW_TOKENS |
@@ -233,6 +305,7 @@ Równy podział i brak możliwości weryfikacji co zdecydowało o takim przypisa
 | desc (A) | method_A | Opis pojedynczego obrazka | 120–250 |
 | cat v1 (A) | method_A | Kategoryzacja z listy (bez definicji) | 30 |
 | cat v2 (A) | method_A | Kategoryzacja z definicjami inline | 30 |
+| C | method_C | Odrzucenie identycznych zdjęć | 900 |
 
 ---
 
