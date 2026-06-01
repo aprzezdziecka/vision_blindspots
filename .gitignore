@@ -7,6 +7,9 @@ wheels/
 *.egg-info
 
 img_cache/
+experiment_selected_pairs.ipynb
 
 # Virtual environments
 .venv
+
+_/
